@@ -14,6 +14,9 @@ import "./task-9.ts";
 import "./task-10.ts";
 import "./task-11.ts";
 import "./task-12.ts";
+import "./task-13.ts";
+import "./task-14.ts";
+import "./task-15.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
